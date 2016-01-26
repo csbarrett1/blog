@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+}
+
+.topicone {
+  background-color: #d6b789;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: red;
+  line-height: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.topictwo {
+  background-color: #d689bc;
+  font-family: serif;
+  font-size: 14px;
+  color: blue;
+  line-height: 15px;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.topicthree {
+  background-color: #89d6bb;
+  font-family: "Helvetica";
+  font-size: 16px;
+  color: black;
+  line-height: 20px;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.topicfour {
+  background-color: #c8d689;
+  font-family: "Veranda";
+  font-size: 18px;
+  color: white;
+  line-height: 25px;
+  padding: 25px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.topicfive {
+  background-color: #d69989;
+  font-family: Arial;
+  font-size: 20px;
+  color: black;
+  line-height: 30px;
+  padding: 30px;
+  border: 2px solid black;
+  border-radius: 25px;
+}
